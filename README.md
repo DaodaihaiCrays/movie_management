@@ -1,4 +1,4 @@
-*Movie Management
+# Movie Management
 
 • I developed a microservice-based movie management system using Spring Boot, consisting of MovieService and GenreService.  
 • Each movie belongs to a genre, and we can retrieve movie lists, genre lists, and movies by genre.  
